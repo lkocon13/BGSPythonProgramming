@@ -1,0 +1,15 @@
+import random
+import sys
+import time
+
+compChoice = random.randint(1, 3)
+print compChoice
+time.sleep(3)
+
+# computer choices
+rock = 1
+paper = 2
+scissors = 3
+
+
+# user inpit
